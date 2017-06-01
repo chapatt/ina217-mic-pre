@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA217
+D Precision, Low Power Instrumentation Amplifier G = 1 + 50kOhm/Rg
+K Instrumentation OpAmp
+F http://www.ti.com/lit/ds/symlink/ina128.pdf
+$ENDCMP
+#
+#End Doc Library
