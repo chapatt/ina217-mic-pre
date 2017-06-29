@@ -1,4 +1,4 @@
-update=Wed 31 May 2017 01:41:38 AM EDT
+update=Wed 28 Jun 2017 07:59:19 PM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,16 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=./
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -71,3 +61,14 @@ LibName29=valves
 LibName30=ina217
 LibName31=v-
 LibName32=v+
+LibName33=chassis
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=exports/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
